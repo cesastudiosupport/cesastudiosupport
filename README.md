@@ -10,10 +10,15 @@ I develop web applications and APIs with C#, .NET, and ASP.NET Web API. At **Ces
 
 ## Selected Web Projects
 
-- **[Sigortadan Hasarlı](https://sigortadanhasarli.com/)**  
-  Online auctions for damaged and surplus goods, including machinery and industrial equipment.
-- **[ENKA Motorlu Araçlar](https://en-ka.com.tr/)**  
-  A web platform for damaged vehicles sold through open and closed auctions.
+I worked with Microsoft Azure and IIS on both projects and used Git for version control.
+
+### [Sigortadan Hasarlı](https://sigortadanhasarli.com/)
+
+I built the startup's online auction platform end to end and developed its internal CRM. The platform supports auctions for damaged and surplus goods, including machinery and industrial equipment.
+
+### [ENKA Motorlu Araçlar](https://en-ka.com.tr/)
+
+I worked on the corporate website and the damaged-vehicle auction portal, which supports open and closed auctions. I also developed desktop applications that integrate with insurers’ APIs to retrieve claim files.
 
 ## Published on Google Play
 
