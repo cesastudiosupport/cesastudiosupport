@@ -1,6 +1,12 @@
-# Software Developer
+# Cemal Savaş | Software Developer
 
-I work on web platforms and develop mobile apps and games independently as **Cesa Studio**. My work spans prototyping, implementation, release preparation, and maintenance.
+I develop web applications and APIs with C#, .NET, and ASP.NET Web API. At **Cesa Studio**, I build and publish Android apps and games, from early prototypes through release and ongoing maintenance.
+
+## Technical Skills
+
+- **Backend development** with C#, .NET, ASP.NET Web API, and web services.
+- **Web development and data** with HTML5 and databases.
+- **Version control and mobile publishing** with Git, Android, and Google Play.
 
 ## Selected Web Projects
 
@@ -24,6 +30,9 @@ I work on web platforms and develop mobile apps and games independently as **Ces
 - **[Sonsuz Uçuş](https://play.google.com/store/apps/details?id=com.senisim.sonsuzucus)**  
   A one-touch endless flight game where players guide a ship through gates while managing fuel.
 
+## Contact
+
 I’m interested in software development roles where I can build and improve user-facing products.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/cemal-savas/)
+- [LinkedIn](https://www.linkedin.com/in/cemal-savas/)
+- [Cesa Studio portfolio](https://www.cesastudio.com.tr/)
